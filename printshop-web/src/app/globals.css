@@ -1,0 +1,6 @@
+html, body { height: 100%; }
+body { margin: 0; font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif; background: #0b0f17; color: #eef2f7; }
+a { color: #70a5ff; text-decoration: none; }
+main { line-height: 1.6; }
+h1 { font-size: 2rem; margin-bottom: 1rem; }
+ul { margin-top: 0.5rem; }
